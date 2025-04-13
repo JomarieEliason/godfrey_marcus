@@ -1,11 +1,10 @@
 # godfrey_marcus
 This single-page application showcases the expertise, services and projects of a finance professional name "Godfrey Marcus"
 
-
-```markdown
+markdown
 # 💼 Financial Analyst Portfolio Website
 
-Welcome to the portfolio website of **Godfrey Marcus**, a data-driven financial analyst. This single-page application showcases his experience, services, projects, and resume using a modern, responsive design built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**.
+Welcome to the portfolio website of Godfrey Marcus, a data-driven financial analyst. This single-page application showcases his experience, services, projects, and resume using a modern, responsive design built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**.
 
 ## 🔍 Features
 
