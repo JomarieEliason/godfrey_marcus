@@ -1,5 +1,5 @@
 # godfrey_marcus
-This single-page application showcases the expertise, services and projects of a finance professional name "Godfrey Marcus"
+This single-page application showcases the expertise, services and projects of a finance professional Godfrey Marcus
 
 markdown
 # 💼 Financial Analyst Portfolio Website
